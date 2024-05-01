@@ -35,5 +35,3 @@
 # A brand new OpenWrt LuCI theme
 
 Argon is **a clean and tidy OpenWrt LuCI theme** that allows<br/>
-users to customize their login interface with images or videos.  
-It also supports automatic and manual switching between light and dark modes.
